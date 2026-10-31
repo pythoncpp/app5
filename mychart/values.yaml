@@ -1,0 +1,7 @@
+replicaCount: 1
+
+image:
+  repository: amitksunbeam/app6
+  pullPolicy: Always
+  tag: latest
+
